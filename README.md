@@ -9,13 +9,21 @@ Este proyecto fue desarrollado utilizando Spring Boot, una herramienta que facil
 Tecnologías Utilizadas:
 
 Spring Boot: Proporciona un marco de trabajo para crear aplicaciones Java de manera rápida y sencilla. Ofrece una amplia gama de características, incluida la configuración automática, el contenedor de aplicaciones integrado y la gestión de dependencias.
+
 JPA (Java Persistence API): Es una API de Java que proporciona un estándar para mapear objetos Java a bases de datos relacionales. JPA simplifica el desarrollo de aplicaciones al permitir el uso de objetos Java en lugar de consultas SQL directas.
+
 Hibernate: Es un framework de mapeo objeto-relacional (ORM) para Java que implementa JPA. Hibernate simplifica el acceso y la manipulación de datos en la base de datos al proporcionar un modelo de programación orientado a objetos.
+
 MySQL: Es un sistema de gestión de bases de datos relacional de código abierto muy popular. Se utiliza ampliamente en aplicaciones web para almacenar y recuperar datos de manera eficiente.
+
 MVC (Modelo-Vista-Controlador): Es un patrón de diseño arquitectónico utilizado para separar la lógica de negocio de la interfaz de usuario en una aplicación. MVC divide la aplicación en tres componentes principales: el modelo (datos), la vista (interfaz de usuario) y el controlador (lógica de negocio).
+
 Spring Tool Suite (STS) 4: Es un entorno de desarrollo integrado (IDE) basado en Eclipse diseñado específicamente para desarrollar aplicaciones Spring. Proporciona herramientas avanzadas de desarrollo y depuración que simplifican el proceso de desarrollo de aplicaciones Spring.
+
 Tomcat 8.5: Es un servidor web de código abierto que implementa las especificaciones de los contenedores de servlets y JSP de Java. Tomcat se utiliza comúnmente como servidor web embebido en aplicaciones Spring Boot para servir contenido web.
+
 HeidiSQL: Es un gestor de bases de datos SQL de código abierto y gratuito que permite administrar bases de datos MySQL y otros sistemas de gestión de bases de datos relacionales de forma visual y eficiente.
+
 
 
 Aspectos Destacados:
